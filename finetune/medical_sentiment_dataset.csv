@@ -1,0 +1,31 @@
+text,label
+"The doctor was very attentive and explained my condition thoroughly.",POSITIVE
+"Excellent care from the nursing staff. I felt safe and well-looked after.",POSITIVE
+"The physician was knowledgeable and addressed all my concerns.",POSITIVE
+"Waited only 10 minutes. The consultation was thorough and reassuring.",POSITIVE
+"The specialist was compassionate and the treatment was effective.",POSITIVE
+"Great hospital. Clean, organized, and staff were very professional.",POSITIVE
+"The doctor listened carefully and prescribed the right medication.",POSITIVE
+"Outstanding service. My recovery was faster than expected.",POSITIVE
+"The physiotherapy team was brilliant and very encouraging.",POSITIVE
+"Very happy with the diagnosis and the follow-up care provided.",POSITIVE
+"I waited 4 hours in the emergency room with no updates.",NEGATIVE
+"The doctor dismissed my symptoms without a proper examination.",NEGATIVE
+"Terrible experience. Staff were rude and unhelpful.",NEGATIVE
+"Wrong diagnosis led to unnecessary medication and side effects.",NEGATIVE
+"The facility was dirty and the wait times were unacceptable.",NEGATIVE
+"My prescription was lost and I had to wait another week.",NEGATIVE
+"The nurse was dismissive when I reported severe pain.",NEGATIVE
+"Billing errors and nobody helped resolve them for weeks.",NEGATIVE
+"Poor communication between departments caused serious delays.",NEGATIVE
+"I left feeling worse than when I arrived.",NEGATIVE
+"The visit was okay. Nothing stood out positively or negatively.",NEUTRAL
+"Average hospital experience. Got what I needed eventually.",NEUTRAL
+"The consultation was brief but covered the basics.",NEUTRAL
+"Standard care. Adequate but nothing exceptional.",NEUTRAL
+"The wait was long but the treatment was satisfactory.",NEUTRAL
+"Routine checkup went as expected.",NEUTRAL
+"Decent experience overall. Room for improvement.",NEUTRAL
+"The facility was average. Staff were professional but rushed.",NEUTRAL
+"Neither impressed nor disappointed with the service.",NEUTRAL
+"Met expectations but nothing beyond that.",NEUTRAL
